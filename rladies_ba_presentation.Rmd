@@ -124,12 +124,38 @@ Conferencia de Geomática Libre
 
 ![](fossag.png)
 
+
+---
+
+class: center, middle
+
+# Este año...
+
+Realizamos 7 meetups
+```{r log, echo=FALSE, fig.align="center", out.width='25%'}
+knitr::include_graphics("logohex.jpg")
+```
+
+Participan 
++400 Slack / +2900 Twitter / +900 facebook
+
 ---
 
 class: center, middle
 
 
 ![](m1.png)
+
+
+---
+
+class: center, middle
+
+
+![](flyernati.png)
+
+
+
 
 ---
 
@@ -191,6 +217,13 @@ class: center
 
 class: center
 
+
+![](nerds2.png)
+
+---
+
+class: center
+
 # HOY
 
 ![](rladies_3dic_2019.png)
@@ -199,7 +232,7 @@ class: center
 
 class: inverse, center, middle
 
-# Copate
+# ¡Enredate!
 
 <a href="mailto:buenosaires@rladies.org"><i class="fa fa-envelope"></i>&nbsp; buenosaires@rladies.org</a>
 
@@ -212,6 +245,51 @@ class: inverse, center, middle
 <a href="https://www.instagram.com/rladiesba/"><i class="fa fa-instagram"></i>&nbsp; rladiesba</a>
 
 <a href="https://github.com/rladies/meetup-presentations_buenosaires"><i class="fa fa-github fa-fw"></i>&nbsp; @meetup-presentations_buenosaires</a>
+
+---
+
+
+class: center, inverse, middle
+background-image: url("brisho.jpg")
+
+## R-Ladies es una organización global
+https://benubah.github.io/r-community-explorer/rladies.html
+
+
+---
+
+class: center, middle
+
+# Leadership Team
+
+Claudia Vitolo, Erin LeDell, Gabriela de Queiroz (on leave), Hannah Frick and Laura Acion.
+
+![](leader.png)
+
+---
+
+class: center, middle
+
+
+# Global Team
+
+Athanasia Monika Mowinckel, Bea Hernández, Christin Zasada, Florencia D’Andrea, Jennifer Thompson, Katherine Simeon, Maëlle Salmon, Page Piccinini, Sheila Saia, Sina Rüeger, Yanina Bellini Saibene
+
+ ![](global.png)
+ 
+---
+
+class: center, inverse, middle
+
+## R-Ladies Directory
+
+https://rladies.org/directory/
+
+
+## Sistema de revisión de trabajos
+
+
+![](https://media.giphy.com/media/3o7abBphHJngINCHio/200w_d.gif)
 
 ---
 
@@ -245,10 +323,11 @@ class: inverse, center, middle
 
 <a href="https://twitter.com/RLadiesGlobal"><i class="fa fa-twitter fa-fw"></i>&nbsp; @rladiesGlobal</a><br>
 
-<a href="https://twitter.com/rladies_iwd"><i class="fa fa-twitter fa-fw"></i>&nbsp; R-Ladies International Women's Day </a><br>
+<a href="https://twitter.com/rladies_iwd"><i class="fa fa-twitter fa-fw"></i>&nbsp; @rladies_iwd </a><br>
 
-<a href="https://twitter.com/WeAreRLadies"><i class="fa fa-twitter fa-fw"></i>&nbsp; We are R-Ladies </a><br>
+<a href="https://twitter.com/WeAreRLadies"><i class="fa fa-twitter fa-fw"></i>&nbsp; @WeAreRLadies </a><br>
 
+![](https://media.giphy.com/media/3o7btSkvfpHKdMZTI4/200w_d.gif)
 
 ---
 
