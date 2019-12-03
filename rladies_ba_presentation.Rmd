@@ -1,0 +1,261 @@
+---
+title: "R-Ladies Buenos Aires"
+subtitle: "2019"
+author: "Ultimo meetup de la temporada"
+output:
+  xaringan::moon_reader:
+    css: ["default", "rladies", "rladies-fonts"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    includes:
+      in_header: header.html
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle
+
+# ¡Hola!
+
+```{r init, echo=FALSE, fig.align="center", out.width='45%'}
+knitr::include_graphics("logohex.jpg")
+```
+
+
+---
+
+background-image: url("https://media.giphy.com/media/3o7abBphHJngINCHio/source.gif")
+background-position: 50% 50%
+class: center, inverse
+
+# ¿Qué es R-Ladies?
+
+
+---
+
+class: center, inverse, middle
+
+# ¿Qué queremos?
+
+
+Promover la Diversidad de Género en la comunidad R 
+
+![](https://media.giphy.com/media/l2JhtysmRGeYBg2xG/giphy.gif)
+
+
+---
+
+class: center
+
+# Organizan
+
+![imagen](orga.png)
+
+
+---
+
+class: center
+
+# Colaboran
+
+
+![imagen](colab.png)
+
+
+---
+class: center, middle
+
+# Sponsors
+
+
+![imagen](sponsors.png)
+
+---
+
+class: center, inverse, middle
+background-image: url("brisho.jpg")
+
+# Anuario 2019
+# R-Ladies Buenos Aires
+
+---
+
+class: center, middle
+
+# Comunidades amigas
+
+![](comunidades.png)
+
+---
+
+class: center, middle
+
+# Redes
+
+![](redes.png)
+---
+
+class: center, middle
+# Instagram
+
+![](ig.png)
+
+---
+
+class: center, middle
+# Flisol
+
+Festival Latinoamericano de Instalación de Software Libre
+
+![](flisol.png)
+
+---
+
+class: center, middle
+
+# FOSSAG-AR
+
+Conferencia de Geomática Libre
+
+![](fossag.png)
+
+---
+
+class: center, middle
+
+
+![](m1.png)
+
+---
+
+class: center, middle
+
+
+![](nati.png)
+---
+
+class: center
+
+
+![](m2.png)
+
+
+
+---
+
+class: center
+
+![](git.png)
+
+
+---
+class: center, middle
+
+![](tvtv.png)
+
+---
+
+class: center
+
+# LatinR
+Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
+
+
+![](latinr.png)
+
+
+---
+
+class: center
+
+![](erin.png)
+---
+
+class: center
+
+![](erin2.png)
+---
+
+class: center
+
+# Nerdearla
+
+![](nerds.jpeg)
+
+---
+
+class: center
+
+# HOY
+
+![](rladies_3dic_2019.png)
+
+---
+
+class: inverse, center, middle
+
+# Copate
+
+<a href="mailto:buenosaires@rladies.org"><i class="fa fa-envelope"></i>&nbsp; buenosaires@rladies.org</a>
+
+<a href="https://www.meetup.com/es-ES/rladies-buenos-aires/"><i class="fa fa-meetup"></i>&nbsp; rladies-buenos-aires</a>
+
+<a href="https://www.facebook.com/RladiesBA"><i class="fa fa-facebook-official"></i>&nbsp; RladiesBA </a>
+
+<a href="http://twitter.com/rladiesBA"><i class="fa fa-twitter fa-fw"></i>&nbsp; @rladiesBA</a>
+
+<a href="https://www.instagram.com/rladiesba/"><i class="fa fa-instagram"></i>&nbsp; rladiesba</a>
+
+<a href="https://github.com/rladies/meetup-presentations_buenosaires"><i class="fa fa-github fa-fw"></i>&nbsp; @meetup-presentations_buenosaires</a>
+
+---
+
+class: center, inverse
+
+
+# Abrir un capítulo
+
+
+<a href="mailto:info@rladies.org"><i class="fa fa-envelope"></i>&nbsp; info@rladies.org </a>
+
+![](https://media.giphy.com/media/3oge7Ve0gmIOhJkhOg/giphy.gif)
+
+---
+
+
+class: center, inverse, middle
+
+# R-Ladies Community
+### Iniciativas R-Ladies Global (Slack)
+
+https://rladies-community-slack.herokuapp.com/
+
+![](https://media.giphy.com/media/26xBK0LZw7YmafHqw/giphy.gif)
+
+---
+
+class: inverse, center, middle
+
+### Iniciativas R-Ladies Global (Twitter)
+
+<a href="https://twitter.com/RLadiesGlobal"><i class="fa fa-twitter fa-fw"></i>&nbsp; @rladiesGlobal</a><br>
+
+<a href="https://twitter.com/rladies_iwd"><i class="fa fa-twitter fa-fw"></i>&nbsp; R-Ladies International Women's Day </a><br>
+
+<a href="https://twitter.com/WeAreRLadies"><i class="fa fa-twitter fa-fw"></i>&nbsp; We are R-Ladies </a><br>
+
+
+---
+
+
+class: center, inverse, middle
+background-image: url("brisho.jpg")
+
+# ¡Muchas Gracias!
+
+
